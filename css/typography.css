@@ -17,6 +17,16 @@ body {
   font-weight: 500;
 }
 
+.image-caption-small {
+  font-size: 14px;
+  font-weight: 500;
+  width: 45%;
+  position: relative;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, 0%);
+}
+
 .main-title {
   font-size: 40px;
   font-weight: 700;
